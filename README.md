@@ -1,4 +1,4 @@
-YOLO-wasteplasticbottles re-implementation using PyTorch
+YOLO-WastePlasticBottles re-implementation using PyTorch
 
 ### Installation
 
